@@ -1,7 +1,7 @@
 ## Olá! Eu sou Ana Carolina Rodrigues 😊
 
-- 👨🏾‍🎓 Cursando **Desenvolvimento Web Full Stack** na Trybe
-- 📕 Atualmente estou aprendendo **Python**
+- 👨‍💻 Atualmente trabalho com PHP (Laravel), JavaScript, Jquery e Bootstrap.
+- 
 - 🚀 Busco aprendizado constante, explorando novas tecnologias e aprimorando as habilidades já adquiridas.
   
   <br>
@@ -16,6 +16,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 

@@ -1,7 +1,6 @@
 ## Olá! Eu sou Ana Carolina Rodrigues 😊
 
 - 👨‍💻 Atualmente trabalho com PHP (Laravel), JavaScript, Jquery e Bootstrap.
-- 
 - 🚀 Busco aprendizado constante, explorando novas tecnologias e aprimorando as habilidades já adquiridas.
   
   <br>

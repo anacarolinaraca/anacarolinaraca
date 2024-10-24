@@ -1,11 +1,14 @@
-## Olá! Eu sou Ana Carolina Rodrigues 😊
+### Olá! Eu sou a Ana 😊
 
-- 👨‍💻 Atualmente trabalho com PHP (Laravel), JavaScript, Jquery e Bootstrap.
-- 🚀 Busco aprendizado constante, explorando novas tecnologias e aprimorando as habilidades já adquiridas.
+- Sou desenvolvedora de software com ênfase em back-end.
+- Tenho experiência com PHP e Laravel, além de conhecimentos em Node.js e React.js.
+- Estudei Desenvolvimento Web Full Stack na Trybe, onde aprendi Fundamentos de Desenvolvimento Web, Front-end, Back-end e Ciência da Computação.
+- Durante meu tempo na Trybe, tive a oportunidade de desenvolver aproximadamente 34 projetos práticos utilizando React, Node.js e Python. Atualmente, estou aprofundando meus conhecimentos em Java.
+- Sou formada em Engenharia Química, busco aprendizado constante, explorando novas tecnologias e aprimorando minhas habilidades.
   
   <br>
   
-## 💻 Tecnologias
+### 💻 Tecnologias
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,22 +22,23 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+### 🌱 Aprendendo atualmente
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
   <br>
   
-  ## 🤝 Conecte-se comigo:
+### 🌟 Github Stats
+
+<div>
+  <a href="https://github.com/anacarolinaraca"></a>
+  <img height="180em" card_width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinaraca&layout=compact&langs_count=5&theme=dracula">
+</div>
+ 
+  <br>
+  
+  ### 🤝 Conecte-se comigo:
  
 <div> 
   <a href = "mailto:carolina_ralves@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anacarolinaraca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-  <br>
-  
-## 🌟 Github Stats
-
-<div>
-  <a href="https://github.com/anacarolinaraca"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolinaraca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="180em" card_width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinaraca&layout=compact&langs_count=5&theme=dracula">
-</div>
- 
